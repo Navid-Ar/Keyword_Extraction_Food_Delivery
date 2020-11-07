@@ -1,6 +1,4 @@
 # Food Delivery platform sentiment analysis
-
-# Data related jobs overview
 * 6000 reviews on Uber eats were scraped form google store.
 * A machine learning model was built to asses reviews with the accuracy of 100.
 * A skipgram analysis was performed on keras (tensorflow) to get the embeding layer (vector representation of the words). 
